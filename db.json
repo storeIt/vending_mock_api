@@ -1,13 +1,11 @@
 {
   "products": [
-   { "id": 1, "name": "Twix", "price": "1.75" },
-   { "id": 2, "name": "Bounty", "price": "1.75" },
-   { "id": 3, "name": "Mars", "price": "1.75" }
+   { "name": "Twix", "price": 1.75, "category": "Bevarage", "quantity": 1 },
   ],
   "categories": [
-   { "id": 1, "name": "Bevarage" },
-   { "id": 2, "name": "Desert" },
-   { "id": 3, "name": "Snack" },
-   { "id": 4, "name": "Nuts" }
+   { "name": "Bevarage" },
+   { "name": "Desert" },
+   { "name": "Snack" },
+   { "name": "Nuts" }
   ]
 }
