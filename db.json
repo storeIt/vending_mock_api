@@ -1,6 +1,6 @@
 {
   "products": [
-   { "name": "Twix", "price": 1.75, "category": "Bevarage", "quantity": 1 },
+   { "id": 1, "name": "Twix", "price": 1.75, "category": "Bevarage", "quantity": 1 },
   ],
   "categories": [
    { "name": "Bevarage" },
