@@ -1,11 +1,11 @@
 {
   "products": [
     {
-      "id": 2,
+      "id": 1,
       "name": "Twix",
       "price": 1.75,
       "category": "Desert",
-      "quantity": 1
+      "quantity": 2
     }
   ],
   "categories": [
