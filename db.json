@@ -1,25 +1,28 @@
 {
   "products": [
-    {
-      "id": 1,
-      "name": "Twix",
-      "price": 1.75,
-      "category": "Desert",
-      "quantity": 2
-    }
-  ],
-  "categories": [
-    {
-      "name": "Bevarage"
-    },
-    {
-      "name": "Desert"
-    },
-    {
-      "name": "Snack"
-    },
-    {
-      "name": "Nuts"
-    }
+   { "id": 1, "name": "Twix", "price": 1.75, "category": "Desert", "quantity": 2 },
+   { "id": 2, "name": "Mars", "price": 1.75, "category": "Desert", "quantity": 1 },
+   { "id": 3, "name": "Bounty", "price": 1.75, "category": "Desert", "quantity": 2 },
+   { "id": 4, "name": "Snickers", "price": 1.75, "category": "Desert", "quantity": 3 },
+   { "id": 5, "name": "Kit Kat", "price": 1.75, "category": "Desert", "quantity": 1 },
+   { "id": 6, "name": "Muffin", "price": 1.75, "category": "Desert", "quantity": 1 },
+   { "id": 7, "name": "Oreo", "price": 1.75, "category": "Desert", "quantity": 2 },
+   { "id": 8, "name": "Pie", "price": 1.75, "category": "Desert", "quantity": 1 },
+   { "id": 9, "name": "Poland Spring", "price": 1.75, "category": "Bevarage", "quantity": 1 },
+   { "id": 10, "name": "Devin", "price": 1.75, "category": "Bevarage", "quantity": 2 },
+   { "id": 11, "name": "Gorna Banya", "price": 1.75, "category": "Bevarage", "quantity": 1 },
+   { "id": 12, "name": "Fanta", "price": 1.75, "category": "Bevarage", "quantity": 2 },
+   { "id": 13, "name": "Sprite", "price": 1.75, "category": "Bevarage", "quantity": 3 },
+   { "id": 14, "name": "Orange juice", "price": 1.75, "category": "Bevarage", "quantity": 1 },
+   { "id": 15, "name": "Cherry juice", "price": 1.75, "category": "Bevarage", "quantity": 2 },
+   { "id": 16, "name": "Dr. Pepper", "price": 1.75, "category": "Bevarage", "quantity": 2 },
+   { "id": 17, "name": "Mihalkovo", "price": 1.75, "category": "Bevarage", "quantity": 1 },
+   { "id": 18, "name": "Lays", "price": 1.75, "category": "Snack", "quantity": 1 },
+   { "id": 19, "name": "Chio chips", "price": 1.75, "category": "Snack", "quantity": 2 },
+   { "id": 20, "name": "Pombear", "price": 1.75, "category": "Snack", "quantity": 2 },
+   { "id": 21, "name": "Soleti", "price": 1.75, "category": "Snack", "quantity": 1 },
+   { "id": 22, "name": "Crunch Crunch", "price": 1.75, "category": "Snack", "quantity": 2 },
+   { "id": 23, "name": "Other crunchy", "price": 1.75, "category": "Snack", "quantity": 1 },
+   { "id": 24, "name": "Pepsi", "price": 1.75, "category": "Bevarage", "quantity": 2 }
   ]
 }
